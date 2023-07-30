@@ -8,8 +8,6 @@ bot.on("ready", async () => {
 
   console.log(`${bot.user.username} is online!`);
 
-  //bot.user.setActivity("BoobBot", {type: "USING"});
-  //bot.user.setActivity("ButtBot", {type: "WATCHING"});
   //bot.user.setActivity("OverWatch", {type: "PLAYING"});
   //bot.user.setActivity("Minecraft", {type: "PLAYING"});
   bot.user.setActivity("Bepis", {type: "WATCHING"});
